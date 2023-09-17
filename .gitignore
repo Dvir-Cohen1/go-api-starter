@@ -1,0 +1,34 @@
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output directories
+/bin/
+/pkg/
+/dist/
+
+# Cache and temporary files
+.cache/
+.tmp/
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Dependency directories
+/vendor/
+/go.sum
+
+# Environment-specific files
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
